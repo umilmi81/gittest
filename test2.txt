@@ -1,1 +1,2 @@
 A second file
+and a second line?
