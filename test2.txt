@@ -1,2 +1,4 @@
 A second file
 and a second line?
+
+Visual Studio edit.
